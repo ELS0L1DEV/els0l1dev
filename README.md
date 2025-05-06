@@ -13,9 +13,10 @@ and manage databases with SQL Server, and how to connect it to an integrated dev
 🛠️ I'm a full-stack web development enthusiast, which I've been learning for a little over a year. 🛠️
 
 ## Technologies i usually work with:
-![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=flat&logo=JAVA&logoColor=white)
+![JAVA](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
-![SQL](https://img.shields.io/badge/SQL-red?logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=CSS3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3&logoColor=white)
+
