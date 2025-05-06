@@ -18,5 +18,4 @@ and manage databases with SQL Server, and how to connect it to an integrated dev
 ![SQL](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 ![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-purple?style=for-the-badge&logo=css3&logoColor=white)
-
+![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white)
