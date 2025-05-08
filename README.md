@@ -14,7 +14,6 @@ and manage databases with SQL Server, and how to connect it to an integrated dev
 
 ## Technologies i usually work with:
 ![Java](https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-<br>
 ![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=mysql&logoColor=black)
 <br>
 ![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=white)
